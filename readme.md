@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** Pablo Pérez Martínez
+**Nombre:** Pablo Pérez M
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
