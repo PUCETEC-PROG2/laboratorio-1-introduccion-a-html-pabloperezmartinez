@@ -1,0 +1,21 @@
+{
+  "name": "lab1-template",
+  "version": "1.0.0",
+  "description": "Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "grade": "node grade.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^30.2.0"
+  },
+  "devDependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
